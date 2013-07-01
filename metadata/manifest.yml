@@ -9,7 +9,7 @@ Cartridge-Version: 0.0.1
 Cartridge-Vendor: sosiouxme
 Vendor: sosiouxme
 Categories:
-  - experimental
+  - embedded
 Website:
 Help-Topics:
   "Getting Started": https://www.openshift.com/community/videos/getting-started-with-diy-applications-on-openshift
